@@ -6,7 +6,7 @@ Aplicação simples de estudo realizada com o fim de praticar TypeScript, ReactJ
 
 <img src="./preview.gif" width="800">
 
-## 🚀 Builded with
+## 🛠 Builded with
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
