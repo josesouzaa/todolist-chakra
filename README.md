@@ -4,7 +4,7 @@ Aplicação simples de estudo realizada com o fim de praticar TypeScript, ReactJ
 
 ##  ✨ Preview
 
-<img src="./preview.gif" width="800">
+<img src="./preview.gif">
 
 ## 🛠 Builded with
 
